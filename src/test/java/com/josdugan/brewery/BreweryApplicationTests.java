@@ -1,4 +1,4 @@
-package com.josdugan.brewery.brewery;
+package com.josdugan.brewery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
